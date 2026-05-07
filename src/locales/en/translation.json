@@ -1,0 +1,204 @@
+{
+  "nav": {
+    "home": "home",
+    "about": "about",
+    "experience": "experience",
+    "projects": "projects",
+    "skills": "skills",
+    "contact": "contact"
+  },
+  "hero": {
+    "kicker": "Available for work",
+    "title": "Srdjan Radosavljevic",
+    "subtitle": "AI Product Engineer & Technical Founder",
+    "description": "I build AI-powered SaaS for high-opportunity markets with real room to grow — currently shipping AI Advokat, a practice management platform for lawyers in Serbia and the Ex-YU region. 5+ years of full-stack engineering across Java, Spring, React and event-driven systems.",
+    "cta": "Get in touch",
+    "ctaSecondary": "View work"
+  },
+  "about": {
+    "kicker": "About",
+    "title": "Engineer who ships products end-to-end.",
+    "description": "I bridge cutting-edge AI with practical business problems. With 5+ years of full-stack experience I specialize in building scalable, multi-tenant SaaS platforms — from architecture and backend through to frontend, deployment and go-to-market. I focus on products that solve real problems and deliver measurable value to customers.",
+    "highlights": {
+      "soloShipping": {
+        "title": "Solo SaaS shipping",
+        "description": "Built AI Advokat end-to-end: backend, frontend, mobile, deployment and go-to-market."
+      },
+      "legalTech": {
+        "title": "Legal-tech domain",
+        "description": "Deep knowledge of Ex-YU legal systems, court portals and scraping regulations."
+      },
+      "aiCompliance": {
+        "title": "EU AI compliance",
+        "description": "Architected PII anonymization layer for GDPR-compliant AI processing with EU-hosted models."
+      },
+      "multiTenant": {
+        "title": "Multi-tenant arch",
+        "description": "PostgreSQL schema-per-tenant design with adapter pattern for enterprise integrations."
+      }
+    }
+  },
+  "experience": {
+    "kicker": "Career",
+    "title": "Technical journey",
+    "description": "Five years of building scalable, AI-powered products for emerging markets — each role shaped my approach to systems and product engineering.",
+    "expand": "expand",
+    "collapse": "collapse",
+    "aiAdvokat": {
+      "role": "Founder & CTO",
+      "company": "AI Advokat",
+      "period": "2025 — Present",
+      "description": "Founded and built AI Advokat alongside a full-time role — a practice management SaaS for Ex-YU lawyers with case management, tracking, billing and document automation. Architected a Java/Spring Boot backend and React frontend with RAG-powered AI, automated workflows and web scraping for Balkan legal data."
+    },
+    "tenfore": {
+      "role": "Full-Stack Developer",
+      "company": "Tenfore DOO",
+      "period": "2023 — Present",
+      "description": "Designing high-performance microservices in Spring Boot, building event-driven workflows on Kafka and Axon, and shipping React features that cut user onboarding time by 40%."
+    },
+    "mod24": {
+      "role": "Software Engineer",
+      "company": "Mod24 Inc",
+      "period": "2021 — 2023",
+      "description": "Delivered multi-platform applications with Vue.js, React and Next.js. Architected Laravel services with gRPC and RabbitMQ. Optimized Elasticsearch queries from 2s down to under 500ms."
+    },
+    "infogram": {
+      "role": "Full-Stack Web Developer",
+      "company": "Infogram DOO",
+      "period": "2020 — 2021",
+      "description": "Applied DDD and CQRS patterns to ship maintainable apps. Delivered cross-platform with React and React Native. Led migration of legacy monoliths to modular architectures."
+    }
+  },
+  "projects": {
+    "kicker": "Selected work",
+    "title": "Projects in production",
+    "description": "A curated list of products and systems I've designed, built and shipped — across legal-tech, fintech, e-commerce, cultural archives and streaming.",
+    "visit": "visit site",
+    "code": "source",
+    "more": "// some projects intentionally omitted",
+    "tabs": {
+      "public": "public",
+      "internal": "internal"
+    },
+    "internalNote": "Internal & client work shipped under NDA. Names, screenshots and links are intentionally redacted — context and impact available on request.",
+    "status": {
+      "live": "live",
+      "in_progress": "in progress",
+      "archived": "archived",
+      "nda": "nda"
+    },
+    "items": {
+      "aiAdvokat": {
+        "title": "AI Advokat",
+        "description": "AI-powered practice management SaaS for lawyers in Serbia & Ex-YU. Case management, RAG-based document analysis, billing, automated court-portal scraping. Live since Feb 2026."
+      },
+      "wuonline": {
+        "title": "WU Online",
+        "description": "Regulated fintech platform for Western Union money transfers in Serbia, operated by Tenfore. KYC + video identification, MTCN tracking, multi-method card payments and high-throughput, audited transaction flows."
+      },
+      "mod24": {
+        "title": "MOD24",
+        "description": "US-wide marketplace where customers compare and hire vetted moving companies. Built vendor dashboards, real-time messaging, complex pricing and rating, and Elasticsearch-powered search (latency cut from 2s to <500ms)."
+      },
+      "dynamicLife": {
+        "title": "Dynamic Life",
+        "description": "Mobile app for a savings + life-insurance program in partnership with Generali Serbia. Built the React Native client: barcode and QR scanning of receipts at partner retailers, round-up payments, transaction history, partner tracking and gamified engagement."
+      },
+      "sexsurance": {
+        "title": "SexSurance Platform",
+        "description": "End-to-end mobile + backoffice platform for time-stamped video consent records. React Native / Expo client with face-detected camera capture, Twilio OTP phone verification, geolocation tagging and chunked uploads to S3-compatible storage. Laravel backoffice with Doctrine ORM, Redis caching, search and pagination over records, plus full Docker / Traefik infrastructure across dev / stage / prod."
+      },
+      "rexair": {
+        "title": "Rexair B2B Commerce",
+        "description": "B2B e-commerce platform for Rexair LLC (Rainbow Cleaning System, USA) — supports their global distributor network with multi-branch / per-store catalogs, branch-scoped pricing and inventory, dealer ordering flows and Redis-backed caching for high-traffic catalog reads."
+      },
+      "trigos": {
+        "title": "Trigos",
+        "description": "B2B + B2C e-commerce platform for construction materials in Serbia (paints, insulation, drywall, adhesives). Brand-level filtering, dual wholesale/retail flows and multi-method checkout."
+      },
+      "putsvile": {
+        "title": "Put Svile",
+        "description": "E-commerce store for children's books, graphic novels and educational toys. Catalog, wishlist, threshold-based free delivery and full payment-gateway integration."
+      },
+      "vaju": {
+        "title": "Visual Archive of Yugoslavia",
+        "description": "Digital archive for the Museum of Yugoslavia — 12,000+ photographs with photographer and personality biographies. Full-text + faceted search across collections, multilingual UI (sr-cyr / sr-lat / en). Backed by the Swiss National Science Foundation."
+      },
+      "mojoff": {
+        "title": "MojOFF",
+        "description": "First domestic SVOD streaming platform in Serbia — exclusive premieres of regional and world cinema, three subscription tiers, weekly releases and ~50 new titles per month. Project archived."
+      },
+      "internal1": {
+        "title": "█████ — Fintech Ops",
+        "description": "Internal payment-ops dashboard for a regulated financial institution. Reconciliation, audit trail and operator workflows. Details under NDA."
+      },
+      "internal2": {
+        "title": "█████ — Enterprise Adapters",
+        "description": "Multi-tenant integration layer with adapter pattern for B2B enterprise clients. Event-driven sync between systems with strict SLA. Details under NDA."
+      },
+      "internal3": {
+        "title": "█████ — AI Document Pipeline",
+        "description": "Internal ML pipeline for document classification and structured-data extraction with PII anonymization. Details under NDA."
+      }
+    }
+  },
+  "skills": {
+    "kicker": "Toolbox",
+    "title": "Technical expertise",
+    "description": "The stack I reach for when shipping production systems — backend-leaning, but full-stack capable from architecture through to UI.",
+    "backend": {
+      "title": "Backend",
+      "technologies": ["Java", "Spring Boot", "PHP", "Laravel", "Maven", "Axon Framework"]
+    },
+    "frontend": {
+      "title": "Frontend & Mobile",
+      "technologies": ["React", "Vue.js", "Next.js", "TypeScript", "React Native", "Tailwind CSS"]
+    },
+    "ai": {
+      "title": "AI & Machine Learning",
+      "technologies": ["RAG", "Vector DBs", "LLM Integration", "Document Analysis", "PII Anonymization"]
+    },
+    "data": {
+      "title": "Data Engineering",
+      "technologies": ["PostgreSQL", "MongoDB", "Elasticsearch", "Web Scraping", "Pipelines"]
+    },
+    "architecture": {
+      "title": "System Architecture",
+      "technologies": ["Microservices", "Event-Driven", "DDD/CQRS", "API Design", "Multi-tenant"]
+    },
+    "devops": {
+      "title": "DevOps & Tools",
+      "technologies": ["Docker", "Kubernetes", "Helm", "Linux", "Git", "Kafka", "gRPC", "RabbitMQ", "CI/CD"]
+    }
+  },
+  "stats": {
+    "title": "By the numbers",
+    "years": { "value": "5+", "label": "Years experience" },
+    "projects": { "value": "10+", "label": "Projects shipped" },
+    "users": { "value": "50+", "label": "Active users" },
+    "customers": { "value": "5", "label": "Paying customers" }
+  },
+  "contact": {
+    "kicker": "Get in touch",
+    "title": "Let's build something.",
+    "description": "Open to product collaborations, technical advisory and full-stack engineering work. I usually reply within 24 hours.",
+    "emailLabel": "email",
+    "phoneLabel": "phone",
+    "locationLabel": "location",
+    "form": {
+      "name": "name",
+      "email": "email",
+      "message": "message",
+      "placeholder": "Tell me what you're building...",
+      "send": "send",
+      "submitting": "sending...",
+      "success": "Message sent. I'll get back to you within 24h.",
+      "error": "Something went wrong. Please try again or email me directly.",
+      "missingKey": "Form is not configured yet — please email me directly.",
+      "hint": "// returns within 24h"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Srdjan Radosavljevic. All rights reserved."
+  }
+}
