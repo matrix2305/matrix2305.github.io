@@ -11,14 +11,14 @@
     "kicker": "Available for work",
     "title": "Srdjan Radosavljevic",
     "subtitle": "AI Product Engineer & Technical Founder",
-    "description": "I build AI-powered SaaS for high-opportunity markets with real room to grow — currently shipping AI Advokat, a practice management platform for lawyers in Serbia and the Ex-YU region. 5+ years of full-stack engineering across Java, Spring, React and event-driven systems.",
+    "description": "I build AI-powered SaaS for high-opportunity markets with real room to grow - currently shipping AI Advokat, a practice management platform for lawyers in Serbia and the Ex-YU region. 5+ years of full-stack engineering across Java, Spring, React and event-driven systems.",
     "cta": "Get in touch",
     "ctaSecondary": "View work"
   },
   "about": {
     "kicker": "About",
     "title": "Engineer who ships products end-to-end.",
-    "description": "I bridge cutting-edge AI with practical business problems. With 5+ years of full-stack experience I specialize in building scalable, multi-tenant SaaS platforms — from architecture and backend through to frontend, deployment and go-to-market. I focus on products that solve real problems and deliver measurable value to customers.",
+    "description": "I bridge cutting-edge AI with practical business problems. With 5+ years of full-stack experience I specialize in building scalable, multi-tenant SaaS platforms - from architecture and backend through to frontend, deployment and go-to-market. I focus on products that solve real problems and deliver measurable value to customers.",
     "highlights": {
       "soloShipping": {
         "title": "Solo SaaS shipping",
@@ -41,38 +41,38 @@
   "experience": {
     "kicker": "Career",
     "title": "Technical journey",
-    "description": "Five years of building scalable, AI-powered products for emerging markets — each role shaped my approach to systems and product engineering.",
+    "description": "Five years of building scalable, AI-powered products for emerging markets - each role shaped my approach to systems and product engineering.",
     "expand": "expand",
     "collapse": "collapse",
     "aiAdvokat": {
       "role": "Founder & CTO",
       "company": "AI Advokat",
-      "period": "2025 — Present",
-      "description": "Founded and built AI Advokat alongside a full-time role — a practice management SaaS for Ex-YU lawyers with case management, tracking, billing and document automation. Architected a Java/Spring Boot backend and React frontend with RAG-powered AI, automated workflows and web scraping for Balkan legal data."
+      "period": "2025 - Present",
+      "description": "Founded and built AI Advokat alongside a full-time role - a practice management SaaS for Ex-YU lawyers with case management, tracking, billing and document automation. Architected a Java/Spring Boot backend and React frontend with RAG-powered AI, automated workflows and web scraping for Balkan legal data."
     },
     "tenfore": {
       "role": "Full-Stack Developer",
       "company": "Tenfore DOO",
-      "period": "2023 — Present",
+      "period": "2023 - Present",
       "description": "Designing high-performance microservices in Spring Boot, building event-driven workflows on Kafka and Axon, and shipping React features that cut user onboarding time by 40%."
     },
     "mod24": {
       "role": "Software Engineer",
       "company": "Mod24 Inc",
-      "period": "2021 — 2023",
+      "period": "2021 - 2023",
       "description": "Delivered multi-platform applications with Vue.js, React and Next.js. Architected Laravel services with gRPC and RabbitMQ. Optimized Elasticsearch queries from 2s down to under 500ms."
     },
     "infogram": {
       "role": "Full-Stack Web Developer",
       "company": "Infogram DOO",
-      "period": "2020 — 2021",
+      "period": "2020 - 2021",
       "description": "Applied DDD and CQRS patterns to ship maintainable apps. Delivered cross-platform with React and React Native. Led migration of legacy monoliths to modular architectures."
     }
   },
   "projects": {
     "kicker": "Selected work",
     "title": "Projects in production",
-    "description": "A curated list of products and systems I've designed, built and shipped — across legal-tech, fintech, e-commerce, cultural archives and streaming.",
+    "description": "A curated list of products and systems I've designed, built and shipped - across legal-tech, fintech, e-commerce, cultural archives and streaming.",
     "visit": "visit site",
     "code": "source",
     "more": "// some projects intentionally omitted",
@@ -80,7 +80,7 @@
       "public": "public",
       "internal": "internal"
     },
-    "internalNote": "Internal & client work shipped under NDA. Names, screenshots and links are intentionally redacted — context and impact available on request.",
+    "internalNote": "Internal & client work shipped under NDA. Names, screenshots and links are intentionally redacted - context and impact available on request.",
     "status": {
       "live": "live",
       "in_progress": "in progress",
@@ -110,7 +110,7 @@
       },
       "rexair": {
         "title": "Rexair B2B Commerce",
-        "description": "B2B e-commerce platform for Rexair LLC (Rainbow Cleaning System, USA) — supports their global distributor network with multi-branch / per-store catalogs, branch-scoped pricing and inventory, dealer ordering flows and Redis-backed caching for high-traffic catalog reads."
+        "description": "B2B e-commerce platform for Rexair LLC (Rainbow Cleaning System, USA) - supports their global distributor network with multi-branch / per-store catalogs, branch-scoped pricing and inventory, dealer ordering flows and Redis-backed caching for high-traffic catalog reads."
       },
       "trigos": {
         "title": "Trigos",
@@ -122,22 +122,22 @@
       },
       "vaju": {
         "title": "Visual Archive of Yugoslavia",
-        "description": "Digital archive for the Museum of Yugoslavia — 12,000+ photographs with photographer and personality biographies. Full-text + faceted search across collections, multilingual UI (sr-cyr / sr-lat / en). Backed by the Swiss National Science Foundation."
+        "description": "Digital archive for the Museum of Yugoslavia - 12,000+ photographs with photographer and personality biographies. Full-text + faceted search across collections, multilingual UI (sr-cyr / sr-lat / en). Backed by the Swiss National Science Foundation."
       },
       "mojoff": {
         "title": "MojOFF",
-        "description": "First domestic SVOD streaming platform in Serbia — exclusive premieres of regional and world cinema, three subscription tiers, weekly releases and ~50 new titles per month. Project archived."
+        "description": "First domestic SVOD streaming platform in Serbia - exclusive premieres of regional and world cinema, three subscription tiers, weekly releases and ~50 new titles per month. Project archived."
       },
       "internal1": {
-        "title": "█████ — Fintech Ops",
+        "title": "█████ - Fintech Ops",
         "description": "Internal payment-ops dashboard for a regulated financial institution. Reconciliation, audit trail and operator workflows. Details under NDA."
       },
       "internal2": {
-        "title": "█████ — Enterprise Adapters",
+        "title": "█████ - Enterprise Adapters",
         "description": "Multi-tenant integration layer with adapter pattern for B2B enterprise clients. Event-driven sync between systems with strict SLA. Details under NDA."
       },
       "internal3": {
-        "title": "█████ — AI Document Pipeline",
+        "title": "█████ - AI Document Pipeline",
         "description": "Internal ML pipeline for document classification and structured-data extraction with PII anonymization. Details under NDA."
       }
     }
@@ -145,7 +145,7 @@
   "skills": {
     "kicker": "Toolbox",
     "title": "Technical expertise",
-    "description": "The stack I reach for when shipping production systems — backend-leaning, but full-stack capable from architecture through to UI.",
+    "description": "The stack I reach for when shipping production systems - backend-leaning, but full-stack capable from architecture through to UI.",
     "backend": {
       "title": "Backend",
       "technologies": ["Java", "Spring Boot", "PHP", "Laravel", "Maven", "Axon Framework"]
@@ -194,7 +194,7 @@
       "submitting": "sending...",
       "success": "Message sent. I'll get back to you within 24h.",
       "error": "Something went wrong. Please try again or email me directly.",
-      "missingKey": "Form is not configured yet — please email me directly.",
+      "missingKey": "Form is not configured yet - please email me directly.",
       "hint": "// returns within 24h"
     }
   },

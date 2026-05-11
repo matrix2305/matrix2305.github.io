@@ -11,18 +11,18 @@
     "kicker": "Dostupan za saradnju",
     "title": "Srđan Radosavljević",
     "subtitle": "AI Product Engineer & Tehnički osnivač",
-    "description": "Gradim SaaS rešenja zasnovana na veštačkoj inteligenciji za tržišta koja imaju šanse i prostora za uspeh. Trenutno radim na AI Advokat — platformi za upravljanje praksom za advokate u Srbiji i bivšoj Jugoslaviji. 5+ godina full-stack iskustva u Java/Spring, React i event-driven sistemima.",
+    "description": "Gradim SaaS rešenja zasnovana na veštačkoj inteligenciji za tržišta koja imaju šanse i prostora za uspeh. Trenutno radim na AI Advokat - platformi za upravljanje praksom za advokate u Srbiji i bivšoj Jugoslaviji. 5+ godina full-stack iskustva u Java/Spring, React i event-driven sistemima.",
     "cta": "Kontaktiraj me",
     "ctaSecondary": "Pogledaj radove"
   },
   "about": {
     "kicker": "O meni",
     "title": "Inženjer koji dovodi proizvod do kraja.",
-    "description": "Spajam naprednu veštačku inteligenciju sa praktičnim poslovnim problemima. Uz 5+ godina full-stack iskustva, specijalizovan sam za izgradnju skalabilnih multi-tenant SaaS platformi — od arhitekture i bekenda do frontenda, deploja i go-to-market. Fokus mi je na proizvodima koji rešavaju stvarne probleme i donose merljivu vrednost klijentima.",
+    "description": "Spajam naprednu veštačku inteligenciju sa praktičnim poslovnim problemima. Uz 5+ godina full-stack iskustva, specijalizovan sam za izgradnju skalabilnih multi-tenant SaaS platformi - od arhitekture i bekenda do frontenda, deploja i go-to-market. Fokus mi je na proizvodima koji rešavaju stvarne probleme i donose merljivu vrednost klijentima.",
     "highlights": {
       "soloShipping": {
         "title": "Solo SaaS isporuka",
-        "description": "AI Advokat od nule — bekend, frontend, mobilno, deploj i go-to-market."
+        "description": "AI Advokat od nule - bekend, frontend, mobilno, deploj i go-to-market."
       },
       "legalTech": {
         "title": "Legal-tech domen",
@@ -41,38 +41,38 @@
   "experience": {
     "kicker": "Karijera",
     "title": "Tehnički put",
-    "description": "Pet godina gradnje skalabilnih proizvoda zasnovanih na AI za nova tržišta — svaka uloga je oblikovala moj pristup sistemima i inženjerstvu proizvoda.",
+    "description": "Pet godina gradnje skalabilnih proizvoda zasnovanih na AI za nova tržišta - svaka uloga je oblikovala moj pristup sistemima i inženjerstvu proizvoda.",
     "expand": "proširi",
     "collapse": "saži",
     "aiAdvokat": {
       "role": "Osnivač i CTO",
       "company": "AI Advokat",
-      "period": "2025 — Danas",
-      "description": "Osnovao i izgradio AI Advokat paralelno sa full-time poslom — SaaS za upravljanje praksom za advokate Ex-YU regiona sa upravljanjem predmetima, praćenjem, fakturisanjem i automatizacijom dokumenata. Java/Spring Boot bekend i React frontend sa RAG AI-jem, automatizovanim radnim tokovima i skrepingom balkanskih pravnih podataka."
+      "period": "2025 - Danas",
+      "description": "Osnovao i izgradio AI Advokat paralelno sa full-time poslom - SaaS za upravljanje praksom za advokate Ex-YU regiona sa upravljanjem predmetima, praćenjem, fakturisanjem i automatizacijom dokumenata. Java/Spring Boot bekend i React frontend sa RAG AI-jem, automatizovanim radnim tokovima i skrepingom balkanskih pravnih podataka."
     },
     "tenfore": {
       "role": "Full-Stack Developer",
       "company": "Tenfore DOO",
-      "period": "2023 — Danas",
+      "period": "2023 - Danas",
       "description": "Dizajn visoko-performantnih mikroservisa u Spring Boot-u, izgradnja event-driven procesa na Kafka i Axon-u, i React funkcionalnosti koje su smanjile vreme onboarding-a za 40%."
     },
     "mod24": {
       "role": "Software Engineer",
       "company": "Mod24 Inc",
-      "period": "2021 — 2023",
+      "period": "2021 - 2023",
       "description": "Multi-platform aplikacije sa Vue.js, React i Next.js. Laravel servisi sa gRPC i RabbitMQ. Optimizacija Elasticsearch upita sa 2s na ispod 500ms."
     },
     "infogram": {
       "role": "Full-Stack Web Developer",
       "company": "Infogram DOO",
-      "period": "2020 — 2021",
+      "period": "2020 - 2021",
       "description": "DDD i CQRS obrasci za održive aplikacije. Cross-platform isporuka u React-u i React Native-u. Migracija legacy monolita u modularne arhitekture."
     }
   },
   "projects": {
     "kicker": "Izabrani radovi",
     "title": "Projekti u produkciji",
-    "description": "Probrana lista proizvoda i sistema koje sam projektovao i isporučio — legal-tech, fin-tech, e-commerce, kulturni arhivi i striming.",
+    "description": "Probrana lista proizvoda i sistema koje sam projektovao i isporučio - legal-tech, fin-tech, e-commerce, kulturni arhivi i striming.",
     "visit": "poseti sajt",
     "code": "kod",
     "more": "// neki projekti namerno nisu prikazani",
@@ -80,7 +80,7 @@
       "public": "javni",
       "internal": "interni"
     },
-    "internalNote": "Interni i klijentski projekti isporučeni pod NDA. Imena, skrinšotovi i linkovi su namerno skriveni — kontekst i rezultat dostupni na zahtev.",
+    "internalNote": "Interni i klijentski projekti isporučeni pod NDA. Imena, skrinšotovi i linkovi su namerno skriveni - kontekst i rezultat dostupni na zahtev.",
     "status": {
       "live": "uživo",
       "in_progress": "u razvoju",
@@ -110,7 +110,7 @@
       },
       "rexair": {
         "title": "Rexair B2B Commerce",
-        "description": "B2B e-commerce platforma za Rexair LLC (Rainbow Cleaning System, SAD) — podržava njihovu globalnu distributersku mrežu sa katalozima po ograncima / prodavnicama, branch-scoped cenama i stanjem, ordering flow-om za dilere i Redis cache-om za katalog visokog volumena."
+        "description": "B2B e-commerce platforma za Rexair LLC (Rainbow Cleaning System, SAD) - podržava njihovu globalnu distributersku mrežu sa katalozima po ograncima / prodavnicama, branch-scoped cenama i stanjem, ordering flow-om za dilere i Redis cache-om za katalog visokog volumena."
       },
       "trigos": {
         "title": "Trigos",
@@ -122,22 +122,22 @@
       },
       "vaju": {
         "title": "Vizuelni arhiv Jugoslavije",
-        "description": "Digitalni arhiv Muzeja Jugoslavije — 12.000+ fotografija sa biografijama fotografa i ličnosti. Full-text i fasetna pretraga kolekcija, višejezičan UI (ćirilica / latinica / engleski). Podržan od Swiss National Science Foundation."
+        "description": "Digitalni arhiv Muzeja Jugoslavije - 12.000+ fotografija sa biografijama fotografa i ličnosti. Full-text i fasetna pretraga kolekcija, višejezičan UI (ćirilica / latinica / engleski). Podržan od Swiss National Science Foundation."
       },
       "mojoff": {
         "title": "MojOFF",
-        "description": "Prva domaća SVOD striming platforma u Srbiji — ekskluzivne premijere regionalne i svetske kinematografije, tri pretplatnička paketa i oko 50 novih naslova mesečno. Projekat arhiviran."
+        "description": "Prva domaća SVOD striming platforma u Srbiji - ekskluzivne premijere regionalne i svetske kinematografije, tri pretplatnička paketa i oko 50 novih naslova mesečno. Projekat arhiviran."
       },
       "internal1": {
-        "title": "█████ — Fintech Ops",
+        "title": "█████ - Fintech Ops",
         "description": "Interni payment-ops dashboard za regulisanu finansijsku instituciju. Rekoncilijacija, audit trail i operativni workflow-ovi. Detalji pod NDA."
       },
       "internal2": {
-        "title": "█████ — Enterprise Adapters",
+        "title": "█████ - Enterprise Adapters",
         "description": "Multi-tenant integracioni sloj sa adapter obrascem za B2B enterprise klijente. Event-driven sinhronizacija između sistema sa strogim SLA. Detalji pod NDA."
       },
       "internal3": {
-        "title": "█████ — AI Document Pipeline",
+        "title": "█████ - AI Document Pipeline",
         "description": "Interni ML pipeline za klasifikaciju dokumenata i ekstrakciju strukturiranih podataka sa PII anonimizacijom. Detalji pod NDA."
       }
     }
@@ -145,7 +145,7 @@
   "skills": {
     "kicker": "Alati",
     "title": "Tehnička ekspertiza",
-    "description": "Stek kome se vraćam kada isporučujem produkcioni softver — naglasak na bekendu, ali full-stack od arhitekture do UI-ja.",
+    "description": "Stek kome se vraćam kada isporučujem produkcioni softver - naglasak na bekendu, ali full-stack od arhitekture do UI-ja.",
     "backend": {
       "title": "Bekend",
       "technologies": ["Java", "Spring Boot", "PHP", "Laravel", "Maven", "Axon Framework"]
@@ -194,7 +194,7 @@
       "submitting": "šaljem...",
       "success": "Poruka poslata. Odgovaram u roku od 24h.",
       "error": "Došlo je do greške. Pokušaj ponovo ili mi pošalji mejl direktno.",
-      "missingKey": "Forma još nije konfigurisana — pošalji mi mejl direktno.",
+      "missingKey": "Forma još nije konfigurisana - pošalji mi mejl direktno.",
       "hint": "// odgovor u 24h"
     }
   },
